@@ -10,8 +10,8 @@ import json
 import os
 
 # === À REMPLIR (SÉCURITÉ) ===
-RPC_URL = os.getenv("RPC_URL", "https://mainnet.helius-rpc.com/?api-key=c888ba69-de31-43b7-b6c6-f6f841351f56")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8017958637:AAHGc7Zkw2B63GyR1nbnuckx3Hc8h4eelRY")
+RPC_URL = os.getenv("RPC_URL",)
+BOT_TOKEN = os.getenv("BOT_TOKEN",)
 # =============================
 
 # === MOT DE PASSE (CHANGE-LE !) ===
